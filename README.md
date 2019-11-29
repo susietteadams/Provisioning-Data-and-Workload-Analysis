@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/43391446/69773683-7de6d080-1161-11ea-9a09-c8feae6f524a.png)
+![image](https://user-images.githubusercontent.com/43391446/69837602-a9c78c00-121d-11ea-870f-596018c9b489.png)
 
 Data Provisioning
 
